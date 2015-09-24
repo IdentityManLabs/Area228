@@ -38,6 +38,9 @@
   <ProjectExtensions>
     <MonoDevelop>
       <Properties>
+        <Policies>
+          <VersionControlPolicy inheritsSet="Mono" />
+        </Policies>
         <XspParameters Port="8080" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
       </Properties>
     </MonoDevelop>
@@ -47,5 +50,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="Hello.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Hello.aspx.cs">
+      <DependentUpon>Hello.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hello.aspx.designer.cs">
+      <DependentUpon>Hello.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
 </Project>

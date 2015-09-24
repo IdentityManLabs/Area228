@@ -1,14 +1,12 @@
-﻿<%@ Page Language="C#" %>
+﻿<%@ Page Language="C#" Inherits="Area228.Hello" %>
 <!DOCTYPE html>
 <html>
 <head runat="server">
 	<title>Hello</title>
-	<script runat="server">
-	
-	</script>
 </head>
 <body>
 	<form id="form1" runat="server">
+	Hello World
 	</form>
 </body>
 </html>
