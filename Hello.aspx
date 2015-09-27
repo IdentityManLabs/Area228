@@ -1,13 +1,6 @@
-﻿<%@ Page Language="C#" Inherits="Area228.Hello" %>
-<!DOCTYPE html>
-<html>
-<head runat="server">
-	<title>Hello</title>
-</head>
-<body>
-	<form id="form1" runat="server">
-	Hello World, I like Trainz! Bro
-	</form>
-</body>
-</html>
-
+U2FsdGVkX18AAAAAAAAAAIVBSeBPw6gZquQydcX/pCt8sXx7PPmw7QPZDdbYO/VE
+dOKxowbwlYa3NcULNTp72g8bPftEmRoZbt9A69/IyYW9MNEwnfV/UZhbgG9jiIXK
+apAlgdqQQgxXpFFW7dwxp+94C95nXgEqxHnLYgkVJv6pnqx51pddyGVeat64mdwP
+vSCqBy4l3dqatk+OqS5CIJPFVbZNbAUiTkF3YpuB7DQ2vgVo9ZpckU7qiP3z4KkL
+yMZrTIIfdV+08hxiSbK19XiADu+O5m+svDOKs+eeF4k5vY8WniWmzTsKIpIrgYIL
+k0GXDtgVQ3BtP6HH6CyByQ==
