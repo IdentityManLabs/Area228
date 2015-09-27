@@ -6,7 +6,7 @@
 </head>
 <body>
 	<form id="form1" runat="server">
-	Hello World, I like Trainz! Dude
+	Hello World, I like Trainz! Bro
 	</form>
 </body>
 </html>
